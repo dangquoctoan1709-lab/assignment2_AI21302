@@ -1,0 +1,16 @@
+[
+    {
+        "id": "LT01",
+        "name": "Dell XPS 13",
+        "brand": "Dell",
+        "price": 13000000,
+        "quantity": 36
+    },
+    {
+        "id": "LT02",
+        "name": "Laptop Gaming Acer Nitro 5",
+        "brand": "Acer",
+        "price": 21000000,
+        "quantity": 19
+    }
+]
